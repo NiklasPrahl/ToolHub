@@ -26,7 +26,7 @@ Welcome to ToolHub! This repository contains a handpicked selection of powerful 
 - [Cursor](https://cursor.sh/) - VSCode based code editor with embedded AI coding assistance
 - [MarkText](https://marktext.app/) - Simple Markdown editor
 
-### Media & Entertainment
+### 🎥 Media & Entertainment
 - [AudioBookBinder](https://bluezbox.com/audiobookbinder.html) - Create M4B audiobooks
 - [FileBot](https://www.filebot.net/) - Media file organizer
 - [HandBrake](https://handbrake.fr/) - Powerful video transcoder
