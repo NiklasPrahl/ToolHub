@@ -61,6 +61,9 @@ Welcome to ToolHub! This repository contains a handpicked selection of powerful 
 - [Zotero](https://www.zotero.org/) - Reference management software
 
 ## 🐧 Interesting Linux Distributions (to be continued...)
-- [vanillaOS](https://vanillaos.org/) - Minimalist Linux distribution with Apx tool for seamless integration of multiple Linux distributions
-- [Asahi Linux](https://asahilinux.org/) - Linux distribution for Apple Silicon Macs
-- [cutefishOS](https://cutefish-ubuntu.github.io) - Minimalist Linux distribution with MacOS-like UI
+> Obivous candidats like fedora, ubuntu, kalli, e.g. are excluded here)
+
+- [vanillaOS](https://vanillaos.org/) - Minimalist distro with Apx tool for seamless integration of multiple Linux distributions
+- [Asahi Linux](https://asahilinux.org/) - Linux distro for Apple Silicon Macs
+- [cutefishOS](https://cutefish-ubuntu.github.io) - Minimalist distro with MacOS-like UI
+- [Talos Linux](https://www.siderolabs.com/talos-linux) - Distro focused on running a Kubernetes cluster
