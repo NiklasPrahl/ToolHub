@@ -27,7 +27,7 @@ Welcome to ToolHub! This repository contains a handpicked selection of powerful 
 - [MarkText](https://marktext.app/) - Simple Markdown editor
 
 ### 🎥 Media & Entertainment
-- [AudioBookBinder](https://bluezbox.com/audiobookbinder.html) - Create M4B audiobooks
+- [AudioBookBuilder](https://www.splasm.com/audiobookbuilder/) - Create M4B audiobooks (alternative for deprecated Audibookbuilder)
 - [FileBot](https://www.filebot.net/) - Media file organizer
 - [HandBrake](https://handbrake.fr/) - Powerful video transcoder
 - [IINA](https://iina.io/) - Modern media player
