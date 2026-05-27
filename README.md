@@ -25,6 +25,7 @@ Welcome to ToolHub! This repository contains a handpicked selection of powerful 
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery status and health monitoring
 - [Cursor](https://cursor.sh/) - VSCode based code editor with embedded AI coding assistance
 - [MarkText](https://marktext.app/) - Simple Markdown editor
+- [Zotero](https://www.zotero.org/) - Reference management software
 
 ### 🎥 Media & Entertainment
 - [AudioBookBuilder](https://www.splasm.com/audiobookbuilder/) - Create M4B audiobooks (alternative for deprecated Audibookbuilder)
@@ -55,10 +56,11 @@ Welcome to ToolHub! This repository contains a handpicked selection of powerful 
 - [ns-usbloader](https://github.com/developersu/ns-usbloader) - Nintendo Switch payload loader
 
 ## 🔒 Privacy & Security
+- [Tailscale](https://tailscale.com) - Mesh-VPN services with open sources clients (Regular 'country-based'-VPN with Cloud Exit Node)
 - [ProtonMail Import-Export](https://proton.me/mail/bridge) - ProtonMail bridge
 - [ProtonVPN](https://protonvpn.com/) - Secure VPN service
 - [Radio Silence](https://radiosilenceapp.com/) - Firewall for Mac
-- [Zotero](https://www.zotero.org/) - Reference management software
+
 
 ## 🐧 Interesting Linux Distributions (to be continued...)
 > Obivous candidats like fedora, ubuntu, kalli, e.g. are excluded here)
